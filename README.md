@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 4xMafole
-### App Developer📱 | Indie Game Developer🎮
+### Mobile App Developer📱 | Indie Game Developer🎮
 
 I am a senior developer in an indie-game startup, [4le Studios](https://www.instagram.com/4le_studios/)🎮.
 I also collaborate on a side project in my free time. 
