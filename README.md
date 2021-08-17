@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Mobile App Developer📱 | Indie Game Developer🎮
 
 I am a senior developer in an indie-game startup, [4le Studios](https://www.instagram.com/4le_studios/)🎮.
-I also collaborate on a side project in my free time. 
+I also collaborate on side projects in my free time. 
 
 I am expertise in:
 
