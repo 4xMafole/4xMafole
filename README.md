@@ -47,3 +47,9 @@ development.
 Learning
 ---
 🌱 I’m currently learning the blockchain technology and every cool stuffs around cryptocurrency.
+
+More about Me
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4xMafole&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![4xMafole's GitHub stats](https://github-readme-stats.vercel.app/api?username=4xMafole&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
