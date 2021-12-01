@@ -24,6 +24,7 @@ I also collaborate on side projects in my free time.
 I am expertise in:
 
 * Java☕
+* Dart
 * C# (Unity C#️⃣)
 
 I am not in the job market but, open to opportunities:
@@ -33,7 +34,8 @@ I am not in the job market but, open to opportunities:
 
 Currently
 ---
-🔭 I’m currently working on an android application [**Supme**](https://play.google.com/store/apps/details?id=com.fole_Studios.sup). 
+🔭 I’m currently working on an android application **Supme**
+<!-- (https://play.google.com/store/apps/details?id=com.fole_Studios.sup).  -->
 
 ### Supme (APP)
 It's a student university's or college's assistant, to help students to track all
