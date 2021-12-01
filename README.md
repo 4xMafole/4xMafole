@@ -32,7 +32,7 @@ I am not in the job market but, open to opportunities:
 * Co-founder
 * Cryptocurrency
 
-Currently
+Current
 ---
 🔭 I’m currently working on an android application **Supme**
 <!-- (https://play.google.com/store/apps/details?id=com.fole_Studios.sup).  -->
