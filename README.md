@@ -3,9 +3,6 @@
 # 4xMafole
 ### Mobile App Developer📱 | Indie Game Developer🎮
 
-I am a senior developer in an indie-game startup, [4le Studios](https://www.instagram.com/4le_studios/)🎮.
-I also collaborate on side projects in my free time. 
-
 I am expertise in:
 
 * Java☕
@@ -20,11 +17,11 @@ I am not in the job market but, open to opportunities:
 I participated in application design by providing feedback and guidance on available technology options to business problems specific to mobile devices. Analyzed complex business requirements, designs, and written architecture and technical specifications to design applications. Also provided guidance and consultation with other members of the development team.
 
 *   🌍  I'm based in Tanzania
-*   ✉️  You can contact me at [4cruxt.unknown@gmail.com](mailto:4cruxt.unknown@gmail.com)
-*   🧠  I'm learning Cryptocurrency & Human Language (Hindi)
-*   ⚡  I'm currently into 6 months challenge (#6MonthsChallenge)<a href="https://www.twitter.com/4xMafole " target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/4xMafole ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills<p align="left">
+*   📖 I'm learning Cryptocurrency & Human Language (Hindi)
+*   ⚡  I'm currently into 6 months challenge (*#6MonthsChallenge*)
+
+### Skills
+  <p align="left">
                                 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -44,23 +41,15 @@ I participated in application design by providing feedback and guidance on avail
                                 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
                     </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
-                          
+<p align="left">  
                       <a href="https://www.github.com/4xmafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/4x.mafole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/4xMafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/4xMafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/4xmafole "><img src="https://github-readme-stats.vercel.app/api?username=4xmafole &show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="4xmafole 's GitHub stats" /></a><a
-                      href="http://www.github.com/4xmafole "><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=4xmafole &stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/4xmafole "><img src="https://activity-graph.herokuapp.com/graph?username=4xmafole &bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+                      <a href="http://www.instagram.com/4x.mafole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>     
+                      <a href="https://www.stackoverflow.com/users/4xMafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>    
+                      <a href="https://www.twitter.com/4xMafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+    
 More about Me
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4xMafole&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
