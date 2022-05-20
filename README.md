@@ -14,7 +14,7 @@ I am not in the job market but, open to opportunities:
 * Co-founder
 * Cryptocurrency
 
-I participated in application design by providing feedback and guidance on available technology options to business problems specific to mobile devices. Analyzed complex business requirements, designs, and written architecture and technical specifications to design applications. Also provided guidance and consultation with other members of the development team.
+I participate in application design by providing feedback and guidance on available technology options, mainly to business problems specific to mobile devices. I analyze complex business requirements, designs, and written architecture also technical specifications to design applications. I also provide guidance and consultation to other members of the development team.
 
 *   🌍  I'm based in Tanzania
 *   📖 I'm learning Cryptocurrency & Human Language (Hindi)
