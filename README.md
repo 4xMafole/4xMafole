@@ -9,10 +9,10 @@ I am expertise in:
 * Dart
 * C# (Unity C#️⃣)
 
-I am not in the job market but, open to opportunities:
+<!-- I am not in the job market but, open to opportunities:
 
 * Co-founder
-* Cryptocurrency
+* Cryptocurrency -->
 
 I participate in application design by providing feedback and guidance on available technology options, mainly to business problems specific to mobile devices. I analyze complex business requirements, designs, and written architecture also technical specifications to design applications. I also provide guidance and consultation to other members of the development team.
 
