@@ -1,19 +1,20 @@
 ### Hello 👋
 
-# 4xMafole
-### Mobile App Developer📱 | Indie Game Developer🎮
+# 4xMafole Here
+### Mobile App Developer | Indie Game Developer | Web 3.0 Developer | Cryptocurrency
 
-I expertise in:
+I have expertise in:
 
-* Flutter
-* Unity Game Engine
-* Web 3.0
+- Flutter
+- Unity Game Engine
+- Web 3.0
 
-I participate in application design by providing feedback and guidance on available technology options, mainly to business problems specific to mobile devices. I analyze complex business requirements, designs, and written architecture also technical specifications to design applications. I also provide guidance and consultation to other members of the development team.
+I participate in application design by providing feedback and guidance on available technology options, mainly for business problems specific to mobile devices. 
 
-*   🌍  I'm based in Tanzania
-*   📖 I'm learning Cryptocurrency & Human Language (Hindi)
-*   ⚡  I'm currently into 6 months challenge (*#6MonthsChallenge*)
+I analyze complex business requirements, designs, written architecture also technical specifications to design applications. 
+
+I also provide guidance and consultation to other members of the development team.
+
 
 ### Skills
   <p align="left">
