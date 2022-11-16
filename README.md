@@ -5,9 +5,9 @@
 
 I expertise in:
 
-* Java☕
-* Dart
-* C# (Unity C#️⃣)
+* Flutter
+* Unity Game Engine
+* Web 3.0
 
 I participate in application design by providing feedback and guidance on available technology options, mainly to business problems specific to mobile devices. I analyze complex business requirements, designs, and written architecture also technical specifications to design applications. I also provide guidance and consultation to other members of the development team.
 
