@@ -9,11 +9,11 @@ I have expertise in:
 - Unity Game Engine
 - Web 3.0
 
-I participate in application design by providing feedback and guidance on available technology options, mainly for business problems specific to mobile devices. 
+I collaborate in the design of applications by offering insights and recommendations on suitable technology choices, primarily addressing mobile-specific business challenges.
 
-I analyze complex business requirements, designs, written architecture also technical specifications to design applications. 
+My responsibilities involve evaluating intricate business requirements, designs, and technical specifications in order to architect applications.
 
-I also provide guidance and consultation to other members of the development team.
+Additionally, I support and advise fellow development team members as needed.
 
 
 ### Skills
@@ -34,7 +34,7 @@ I also provide guidance and consultation to other members of the development tea
 <p align="left">  
                       <a href="https://www.github.com/4xmafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
                       <a href="http://www.instagram.com/4x.mafole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
-                      <a href="https://www.stackoverflow.com/users/4xMafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
+                      <a href="https://stackoverflow.com/users/9942927/4xmafole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
                       <a href="https://www.twitter.com/4xMafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
     
 More about Me
