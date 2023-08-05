@@ -39,6 +39,6 @@ Additionally, I support and advise fellow development team members as needed.
     
 More about Me
 ---
-[![Top Langs](https://github-readme-stats-git-master-4xmafole.vercel.app/api/top-langs/?username=4xMafole&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  [![4xMafole's GitHub stats](https://github-readme-stats-git-master-4xmafole.vercel.app/api?username=4xMafole&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-m5fwgwo92-4xmafole.vercel.app/api/top-langs/?username=4xMafole&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![4xMafole's GitHub stats](https://github-readme-stats-m5fwgwo92-4xmafole.vercel.app/api?username=4xMafole&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
