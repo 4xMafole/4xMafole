@@ -27,18 +27,4 @@ Additionally, I support and advise fellow development team members as needed.
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                                 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
                     </p>
-                    
-### Socials
-                  
-                  
-<p align="left">  
-                      <a href="https://www.github.com/4xmafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;
-                      <a href="http://www.instagram.com/4x.mafole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
-                      <a href="https://stackoverflow.com/users/9942927/4xmafole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;    
-                      <a href="https://www.twitter.com/4xMafole " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-    
-More about Me
----
-[![Top Langs](https://github-readme-stats-m5fwgwo92-4xmafole.vercel.app/api/top-langs/?username=4xMafole&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  [![4xMafole's GitHub stats](https://github-readme-stats-m5fwgwo92-4xmafole.vercel.app/api?username=4xMafole&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
